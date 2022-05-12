@@ -1,0 +1,84 @@
+/* CSS file for all websites */
+
+/* Body and global scope */
+body, html {
+    font-family: sans-serif;
+    background-color: wheat;
+}
+
+/* Text */
+p {
+    text-align: center; 
+    padding: 5px;
+    color: white;
+}
+
+/* DIV */
+div {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    width: 450px;
+    height: 250px;
+    background-color: pink;
+    border-color: white;
+    border-radius: 25px;
+}
+
+#shopdiv {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  width: 450px;
+  height: 550px;
+  background-color: pink;
+  border-color: white;
+  border-radius: 25px;
+}
+
+/* Hyperlinks */
+a {
+  color: white;
+}
+
+/* Line */
+hr {
+  color: white;
+}
+
+/* Box */
+#box {
+  width: 75%;
+  height: 425px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 5px;
+}
+
+/* Image */
+img {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+
+/* Buttons */
+button {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  border-radius: 15px;
+  bottom: 5%;
+  width: 75%;
+  background-color: wheat;
+  border-color: pink;
+  color: white;
+}
